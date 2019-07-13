@@ -10,6 +10,11 @@ The details of the files under this repository are as follows:
 6. vis_1.png, vis_2.png, vis_3.png, vis_4.png - Images of Coral Bleaching Visualisations
 
 
-Please refer the file Problem Statement.png to understand the problem statement. 
 
 Note: Data Exploration, Wrangling and Visualisation is entirely done in Tableau Public
+
+
+Please refer the file Problem Statement.png to understand the problem statement. 
+
+The tableau online link to access the visualisations is given below:
+https://public.tableau.com/profile/ajay.ganapathy#!/vizhome/DataExplorationVisualisation-CoralBleaching/YearvsBleach

@@ -1,5 +1,5 @@
 # coral_bleaching_data_viz_tableau
-Exploratory data analysis and visualisation of coral bleaching data for 8 sites in Great Barrier Reef using Tableau Public
+Exploratory data analysis and visualisation of coral bleaching data for 8 sites in Great Barrier Reef using Tableau Public.
 
 The details of the files under this repository are as follows:
 1. Data Exploration & Visualisation - Coral Bleaching Report.pdf : A report which describes the steps undertaken in this task.
